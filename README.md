@@ -18,4 +18,8 @@
  dotnet sln add ChatStream
  dotnet sln add Client
  dotnet sln add Server
+ cd Client
+ dotnet add reference ./../ChatStream
+ cd ../Server
+ dotenet add reference ./../ChatStream
  ```
