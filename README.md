@@ -22,4 +22,13 @@
  dotnet add reference ./../ChatStream
  cd ../Server
  dotenet add reference ./../ChatStream
+ cd ..
+ dotnet build
+ 
+ $:~/repos/Simple-dotnet-chat$ dotnet build
+Restore complete (1.0s)
+  ChatStream netstandard2.0 succeeded (0.3s) → ChatStream/bin/Debug/netstandard2.0/ChatStream.dll
+  Client net10.0 succeeded (0.4s) → Client/bin/Debug/net10.0/Client.dll
+  Server net10.0 succeeded (0.4s) → Server/bin/Debug/net10.0/Server.dll
+
  ```
