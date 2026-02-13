@@ -1,10 +1,12 @@
 # Simple-dotnet-chat
 
  References:
-  - https://medium.com/@va.riley/building-a-simple-multi-user-chat-application-and-server-in-c-in-3-steps-b33dee824000
+
   - http://www.csc.villanova.edu/~mprobson/courses/sp21-csc2405/chat.html 
+  - https://medium.com/@va.riley/building-a-simple-multi-user-chat-application-and-server-in-c-in-3-steps-b33dee824000
   - https://github.com/sergiocollado/Simple-C-chat
   - https://github.com/sergiocollado/Simple-Rust-chat
+  - https://dotnet.microsoft.com/en-us/download/dotnet/10.0
 
 
  ## commands to create the solution and projects: 
